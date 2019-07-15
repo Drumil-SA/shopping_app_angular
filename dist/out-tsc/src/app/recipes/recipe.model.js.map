@@ -1,0 +1,1 @@
+{"version":3,"file":"recipe.model.js","sourceRoot":"","sources":["../../../../../src/app/recipes/recipe.model.ts"],"names":[],"mappings":"AACA,MAAM,OAAO,MAAM;IAMf,YAAY,IAAW,EAAC,IAAW,EAAC,SAAgB,EAAC,WAAwB;QACzE,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,WAAW,GAAG,IAAI,CAAC;QACxB,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAC3B,IAAI,CAAC,WAAW,GAAG,WAAW,CAAC;IACnC,CAAC;CACJ"}
